@@ -61,6 +61,64 @@
   <img src="https://img.shields.io/badge/Thunder%20Client-3b82f6?style=for-the-badge&logoColor=white"/>
 </p>
 
+### 📦 Flutter Packages I Use
+
+#### 🧠 State Management
+<p>
+  <img src="https://img.shields.io/badge/provider-0A8FDC?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/riverpod-47C5FB?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/flutter_riverpod-48B8D0?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+#### 💾 Local Storage
+<p>
+  <img src="https://img.shields.io/badge/hive-FADA5E?style=for-the-badge&logo=hive&logoColor=black" />
+  <img src="https://img.shields.io/badge/shared_preferences-FFA500?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/flutter_secure_storage-009688?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+#### 🌐 HTTP & Networking
+<p>
+  <img src="https://img.shields.io/badge/http-007ACC?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/dio-1E88E5?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+#### 🔥 Firebase Integration
+<p>
+  <img src="https://img.shields.io/badge/firebase_core-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/firebase_auth-FFB300?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/cloud_firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/firebase_storage-F57C00?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/firebase_messaging-F44336?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+#### 📸 Media & File Handling
+<p>
+  <img src="https://img.shields.io/badge/image_picker-00BCD4?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/video_player-03A9F4?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/file_picker-4CAF50?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+#### 📍 Location & Maps
+<p>
+  <img src="https://img.shields.io/badge/geolocator-8BC34A?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/google_maps_flutter-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
+</p>
+
+#### 🧪 Forms & Validation
+<p>
+  <img src="https://img.shields.io/badge/flutter_form_builder-5C6BC0?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/formz-7E57C2?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+#### 💬 UI & UX Enhancements
+<p>
+  <img src="https://img.shields.io/badge/fluttertoast-FF7043?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/flutter_spinkit-AB47BC?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/lottie-00BFA5?style=for-the-badge&logo=lottie&logoColor=white" />
+</p>
+
+
 ---
 
 ### 💬 Favorite Quotes
@@ -82,3 +140,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+---
+
