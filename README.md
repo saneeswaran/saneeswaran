@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sathish</h1>
-<h3 align="center">Flutter Developer at InnoMatrics Technology</h3>
+# Hi 👋, I'm Sathish
+### Flutter Developer at InnoMatrics Technology
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 ---
@@ -19,11 +20,12 @@
 
 - 🔭 Currently working at **InnoMatrics Technology**  
 - 🌱 Passionate about building scalable mobile & web apps using **Flutter**  
-- 💡 Backend experience with **Node.js**, **Express.js**, and **phpMyAdmin**  
+- 💡 Backend experience with **Node.js**, **Express.js**, **Spring Boot**, and **phpMyAdmin**  
 - 🔐 Skilled with **Firebase**, **MongoDB**, and **MySQL**  
 - 🧰 Tools I use daily: **VS Code**, **Android Studio**, **Postman**, **Thunder Client**  
 - 📁 Experienced with version control using **Git** and **GitHub**  
 - 📊 Additional skills: **MS Office Suite**, Basic Web Development  
+- 🗓️ **1 year of experience** with all technologies
 
 ---
 
@@ -42,6 +44,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 #### Databases
@@ -118,7 +121,6 @@
   <img src="https://img.shields.io/badge/lottie-00BFA5?style=for-the-badge&logo=lottie&logoColor=white" />
 </p>
 
-
 ---
 
 ### 💬 Favorite Quotes
@@ -141,4 +143,3 @@
   </a>
 </p>
 ---
-
