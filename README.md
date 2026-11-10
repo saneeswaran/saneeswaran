@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sathish
-### Flutter Developer at InnoMatrics Technology
+### Flutter Developer at Seyasoft Technologies Pvt.Ltd
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
@@ -18,7 +18,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working at **InnoMatrics Technology**  
+- 🔭 Currently working at **Seyasoft Technologies Pvt.Ltd**  
 - 🌱 Passionate about building scalable mobile & web apps using **Flutter**  
 - 💡 Backend experience with **Node.js**, **Express.js**, **Spring Boot**, and **phpMyAdmin**  
 - 🔐 Skilled with **Firebase**, **MongoDB**, and **MySQL**  
